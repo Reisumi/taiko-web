@@ -1,7 +1,7 @@
 # taiko-web
 A web-based Taiko no Tatsujin simulator.
 
-Running instance: [https://taiko.bui.pm](https://taiko.bui.pm)
+Running instance: Bui down
 
 Still in development. Works best with Chrome.
 
